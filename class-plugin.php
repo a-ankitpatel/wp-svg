@@ -2,7 +2,7 @@
 
 // Exit if accessed directly
 defined( 'ABSPATH' ) or die();
-
+echo 12;
 /**
  * A simple base plugin class. Very much still under development.
  **/
